@@ -1,5 +1,5 @@
 # Udacity-Business-Analytics-Nanodegree
-Projects/work created in Nanodegree
+Projects/work created in Udacity Business Analytics Nanodegree
 
 Transportation By State and New York County Transits
 ![Transportation By State and New York County Transits](https://github.com/Cawilliams42/Udacity-Business-Analytics-Nanodegree/blob/master/Tableau%20Dashboard1.png?raw=true)
