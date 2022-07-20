@@ -9,6 +9,3 @@ Income and Poverty in U.S. States and Texas Counties
 
 Amount of Population that Work from Home and Mean Commute Times (by State)
 ![Amount of Population that Work from Home and Mean Commute Times (by State)](https://github.com/Cawilliams42/Udacity-Business-Analytics-Nanodegree/blob/master/Tableau%20Dashboard3.png?raw=true)
-
-Maleria Trends in Africa - Senegal
-![Maleria Trends in Africa - Senegal](https://github.com/Cawilliams42/Udacity-Business-Analytics-Nanodegree/blob/10697e96c976f30467e4dd61f4e04ea38e7778ef/Maleria%20Trends%20in%20Africa%20-%20Senegal.pdf?raw=true)
